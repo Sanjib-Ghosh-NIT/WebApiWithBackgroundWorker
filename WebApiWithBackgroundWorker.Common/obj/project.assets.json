@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\bc2855\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\POC\\WebApiWithBackgroundWorker.Common\\WebApiWithBackgroundWorker.Common.csproj",
+      "projectName": "WebApiWithBackgroundWorker.Common",
+      "projectPath": "C:\\POC\\WebApiWithBackgroundWorker.Common\\WebApiWithBackgroundWorker.Common.csproj",
+      "packagesPath": "C:\\Users\\bc2855\\.nuget\\packages\\",
+      "outputPath": "C:\\POC\\WebApiWithBackgroundWorker.Common\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\bc2855\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://artifactory.danskenet.net/artifactory/api/nuget/db-nuget-BackOffice": {},
+        "http://artifactory.danskenet.net/artifactory/api/nuget/db-nuget-rinvtax": {},
+        "http://artifactory.danskenet.net/artifactory/api/nuget/joined-nuget-buildfeed": {},
+        "http://artifactory.danskenet.net/artifactory/api/nuget/remote-nuget-nuget.org-cache": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

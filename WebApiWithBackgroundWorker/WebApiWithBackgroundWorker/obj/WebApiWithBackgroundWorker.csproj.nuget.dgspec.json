@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\POC\\WebApiWithBackgroundWorker\\WebApiWithBackgroundWorker\\WebApiWithBackgroundWorker.csproj": {}
+  },
+  "projects": {
+    "C:\\POC\\WebApiWithBackgroundWorker\\WebApiWithBackgroundWorker\\WebApiWithBackgroundWorker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\POC\\WebApiWithBackgroundWorker\\WebApiWithBackgroundWorker\\WebApiWithBackgroundWorker.csproj",
+        "projectName": "WebApiWithBackgroundWorker",
+        "projectPath": "C:\\POC\\WebApiWithBackgroundWorker\\WebApiWithBackgroundWorker\\WebApiWithBackgroundWorker.csproj",
+        "packagesPath": "C:\\Users\\bc2855\\.nuget\\packages\\",
+        "outputPath": "C:\\POC\\WebApiWithBackgroundWorker\\WebApiWithBackgroundWorker\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bc2855\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://artifactory.danskenet.net/artifactory/api/nuget/db-nuget-BackOffice": {},
+          "http://artifactory.danskenet.net/artifactory/api/nuget/db-nuget-rinvtax": {},
+          "http://artifactory.danskenet.net/artifactory/api/nuget/joined-nuget-buildfeed": {},
+          "http://artifactory.danskenet.net/artifactory/api/nuget/remote-nuget-nuget.org-cache": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

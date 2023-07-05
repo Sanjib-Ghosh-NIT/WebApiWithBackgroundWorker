@@ -1,0 +1,14 @@
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\bin\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.deps.json
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\bin\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.runtimeconfig.json
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\bin\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.runtimeconfig.dev.json
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\bin\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.dll
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\bin\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.pdb
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\obj\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.csproj.CoreCompileInputs.cache
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\obj\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.RazorAssemblyInfo.cache
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\obj\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.RazorAssemblyInfo.cs
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\obj\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.AssemblyInfoInputs.cache
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\obj\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.AssemblyInfo.cs
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\obj\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.RazorTargetAssemblyInfo.cache
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\obj\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.dll
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\obj\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.pdb
+C:\POC\WebApiWithBackgroundWorker\WebApiWithBackgroundWorker\obj\Debug\netcoreapp2.2\WebApiWithBackgroundWorker.csprojAssemblyReference.cache
